@@ -1,0 +1,71 @@
+/*everything about fonts*/
+.logo{
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+.site_name{
+	font-family: arial, sans-serif;
+	text-decoration: none;
+}
+
+body{
+	font-family: 'Segoe UI',sans-serif;
+}
+body{
+	font-size: 20px;
+	color: black;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: helvetica, sans-serif
+}
+
+/*===layout===*/
+.clear{
+	clear: both;
+}
+.logo{
+	text-align: left;
+}
+.main_div{
+	float: left;
+}
+
+.nav_header ul li{
+	float: left, 480px;
+	padding: 20px 40px;
+	list-style-type: none;
+}
+
+.nav_bar ul li{
+	float: left;
+}
+
+.main_body{
+	background-color:#99ddff;
+	color: white;
+	text-align: center;
+	margin: -27px -8.01px;
+	padding: -10px 5px;
+	border: none; 
+}
+
+.header{
+	background-color: #737373;
+	margin: -20px -7.8px;
+	padding: 5px 5px; 
+	border: none;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+.footer{
+	text-align: center;
+}
+
+
+
+
